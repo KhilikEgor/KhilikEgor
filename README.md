@@ -9,7 +9,9 @@ I'm **not afraid** of a problem, I'm afraid I haven't tried enough.
 I'm a **team player** and I value people with an open mindset and willingness to create. 
 
 
+<div style="text-align:center;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R0dzE2NjZhaGcwNWVlcHl3cDFvY3Z0Z2I4bzA2M25ydHU3dHllayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300" height="200">
+</div>
 
 ## Languages and technologies
 
