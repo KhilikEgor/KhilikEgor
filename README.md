@@ -49,6 +49,3 @@ Distributed systems design, multithreading and parallel programming, blockcain a
 [My CV on GDrive]()  
 [My LinkedIn](https://www.linkedin.com/in/egor-khilik-88521b1b2/)  
 [My LeetCode](https://leetcode.com/u/khilikegor/)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhilikEgor&theme=dark)
