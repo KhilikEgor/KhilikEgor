@@ -15,6 +15,9 @@ I'm a **team player** and I value people with an open mindset and willingness to
 
 ## Languages and technologies
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+title="js" width="40" height="40"/>&nbsp;
 Go, Java, Groovy
 Docker, Git, K8s, PostgreSQL  
 Actually, I'm quite good at learnig new stuff, so new techonology won't make any trouble.
