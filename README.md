@@ -1,4 +1,4 @@
-## Quick "about me"
+## About me
 
 - Software Developer
 - Graduate Master's degree in ITMO University on Software Engineering program
