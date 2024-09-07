@@ -40,12 +40,12 @@ Actually, I'm quite good at learnig new stuff, so new techonology won't make any
 [comment]: <[ripgzip decompressor](https://github.com/VanjaRo/rust_mipt/tree/master/problems/modules/ripgzip) – implemented gzip decompressor based on Deflate and Gzip RFS(1951, 1952).  >
 [comment]: <[web-crawler](https://github.com/VanjaRo/rust_mipt/tree/master/problems/async/crawler) (tokio, linkify, reqwest) – simple crawler utilizing tokio asynchronous tasks.   >
 
-## Currently into...
+[comment]: <## Currently into...>
 
-Distributed systems design, multithreading and parallel programming, blockcain and smart-contracts development.
+[comment]: <Distributed systems design, multithreading and parallel programming, blockcain and smart-contracts development.>
 
 ## Links to share
 
-[My CV on GDrive]()  
+[comment]: <[My CV on GDrive]()>  
 [My LinkedIn](https://www.linkedin.com/in/egor-khilik-88521b1b2/)  
 [My LeetCode](https://leetcode.com/u/khilikegor/)
